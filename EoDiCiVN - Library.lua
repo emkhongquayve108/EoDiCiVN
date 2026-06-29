@@ -102,7 +102,7 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 
 -- Interface Management
-local EoDiCiVN = game:GetObjects("rbxassetid://10804731440")[1]
+local EoDiCiVN = game:GetObjects("rbxassetid://93534615298190")[1]
 
 EoDiCiVN.Enabled = false
 
